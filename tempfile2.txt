@@ -1,2 +1,0 @@
-fefe
-This is the second temporary file.
